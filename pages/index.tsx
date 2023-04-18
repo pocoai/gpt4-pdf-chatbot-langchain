@@ -262,7 +262,7 @@ export default function Home() {
         </div>
         <footer className="m-auto p-4">
           <a href="https://twitter.com/pocoaicom">
-            Powered by LangChain. Demo built by PoCoAI
+            Powered by PoCoAI
           </a>
         </footer>
       </Layout>
